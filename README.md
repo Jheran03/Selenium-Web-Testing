@@ -1,7 +1,7 @@
 
 # Web Testing
 
-WIP Project to learn how to use selenium for tests in Python.
+WIP Project to learn how to use Selenium for tests in Python.
 
 
 ## Tests
