@@ -21,7 +21,7 @@ Next improvements goal:
 
 Already done:
 - Create a test 
-- Organize the code, by Page, Locators and Elements
+- Organize the code by Page, Locators and Elements
 - Create a more complex test
 - Create a .env file and upload it to GitHub
 
