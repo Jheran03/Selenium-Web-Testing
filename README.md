@@ -13,4 +13,4 @@ Already done:
 Create a test 
 Organize the code, by Page, Locators and Elements
 Create a more complex test
-Create a .env file and upload in GitHub
+Create a .env file and upload to GitHub
